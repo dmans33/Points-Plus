@@ -1,0 +1,101 @@
+place holder
+dmans33
+test
+Devin Sharpe
+thetaTau
+person1
+test
+bob
+thetaTau phys1120 phys1440 csci2270 phil1440
+person2
+test
+bill
+thetaTau phys1120 phys1440 csci2270 phil1440
+person3
+test
+joe
+phys1120 phys1440 csci2270 phil1440 thetaTau
+person4
+test
+hannah
+phys1120 phys1440 csci2270 phil1440 thetaTau
+person5
+test
+avery
+phys1120 phys1440 csci2270 phil1440 thetaTau
+person6
+test
+cooper
+thetaTau phys1120 phys1440 phil1440 csci2270
+person7
+test
+jan combs
+phys1440 phys1120 csci2270 phil1440 thetaTau
+person8
+test
+jason
+phys1440 phys1120 phil1440 thetaTau csci2270
+person9
+test
+Connor
+thetaTau phys1440 phys1120 phil1440 csci2270
+person10
+test
+kelsey
+phys1120 phys1440 csci2270 thetaTau phil1440
+person11
+test
+nick
+phys1120 phys1440 phil1440 csci2270 thetaTau
+person12
+test
+alec
+phil1440 phys1440 phys1120 csci2270 thetaTau
+person13
+test
+daniel
+phil1440 phys1440 phys1120 csci2270 thetaTau
+person14
+test
+serena
+thetaTau phys1440 phil1440 csci2270 phys1120
+person15
+test
+kevin
+phys1120 phys1440 phil1440 thetaTau csci2270
+person16
+test
+will
+phys1120 phys1440 csci2270 phil1440 thetaTau
+person17
+test
+divya
+phil1440 phys1120 csci2270 phys1440 thetaTau
+person18
+test
+arash
+phil1440 csci2270 phys1120 phys1440 thetaTau
+person19
+test
+avery
+phil1440 phys1120 phys1440 thetaTau csci2270
+person20
+test
+madeline
+phil1440 phys1120 phys1440 csci2270 thetaTau
+dubson
+test
+micheal dubson
+phys1120
+zagrodzki
+test
+maceij zagrodzki
+csci2270
+kelley
+test
+anthony kelley
+phil1440
+west
+test
+colin west
+phys1440
